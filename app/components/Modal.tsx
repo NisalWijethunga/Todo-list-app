@@ -17,6 +17,7 @@ const Modal: React.FC<ModalProps> = ({modalOpen, setModalOpen, children}) => {
   </div>
   </div>
   )
+  
 }
 
 export default Modal
